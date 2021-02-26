@@ -1,2 +1,2 @@
-# competitive-p
+# topics
 Information related to competitive programming
